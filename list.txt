@@ -1,6 +1,3 @@
-mgtvTest,#genre#
-ssbx,https://notag.cn/find?url=https://www.mgtv.com/b/605259/20132154.html
-
 fanmingming,#genre#
 CCTV-1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-2 财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
