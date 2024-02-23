@@ -1,4 +1,6 @@
 日本,#genre#
+日本·24新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+MTV.Japan,http://jp.vthanhnetwork.com/MTV/index.m3u8
 6,http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/81875
 Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
