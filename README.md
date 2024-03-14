@@ -8,3 +8,4 @@
 
   jinenge  [https://jihulab.com/jinenge/tvbox/-/raw/main/1.json](https://jihulab.com/jinenge/tvbox/-/raw/main/1.json)
   
+  yg       https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/box%E5%8E%9F.json
