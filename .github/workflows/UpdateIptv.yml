@@ -31,7 +31,7 @@ jobs:
 
     - name: 提交更改
       run: |
-        git config --local user.email "ggdushan@gmail.com"
+        git config --local user.email "767488371@qq.com"
         git config --local user.name "dushan555"
         git add .
         git commit iptv.txt -m "Update Iptv file"
