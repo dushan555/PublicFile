@@ -27,15 +27,15 @@ jobs:
         pip install requests
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Run iptv
-        run: python3 ${{ github.workspace }}/UpdateIptv.py
+      run: python ${{ github.workspace }}/UpdateIptv.py
 
-      - name: 提交更改
-        run: |
-          git config --local user.email "ggdushan@gmail.com"
-          git config --local user.name "dushan555"
-          git add .
-          git commit iptv.txt -m "Update Iptv file"
-          # git commit *.txt -m "Add generated file"
-          # git commit *.m3u -m "Add generated file"
-          #git pull --rebase
-          git push -f
+    - name: 提交更改
+      run: |
+        git config --local user.email "ggdushan@gmail.com"
+        git config --local user.name "dushan555"
+        git add .
+        git commit iptv.txt -m "Update Iptv file"
+        # git commit *.txt -m "Add generated file"
+        # git commit *.m3u -m "Add generated file"
+        #git pull --rebase
+        git push -f
